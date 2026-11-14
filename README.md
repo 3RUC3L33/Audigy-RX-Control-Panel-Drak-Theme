@@ -7,4 +7,6 @@ before replace make a copy of original file AudioConsole.BFF
 
 and the Audigy Control panel have to be closed.
 
+download here: https://github.com/3RUC3L33/Audigy-RX-Control-Panel-Drak-Theme/raw/refs/heads/main/AudioConsole.BFF
+
 <p align="center"><img width="700" src="https://github.com/3RUC3L33/Audigy-RX-Control-Panel-Drak-Theme/blob/main/screenshot.jpg" alt="preview" /></p>
